@@ -1,7 +1,7 @@
 # GHGemissions
 This is a data repository for GHG emissions from inversions and national reports.
 
-Please create a README.txt file inside every directory that contains all or some part of the following information:
+If you create a new directory, please add a README.txt file that contains all or some part of the following information:
 
 Description: This directory includes XXXXX. 
 Creator: All files were produced by XXXXX.
